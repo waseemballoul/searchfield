@@ -12,6 +12,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  framework: ^1.0.3
+  material: ^1.0.0+2
+  outline_search_bar: ^2.3.0
+  services: ^0.0.1
+  simple_text_field: ^2.1.0
 
 dev_dependencies:
   flutter_test:
